@@ -1,5 +1,5 @@
 body {
-  background: #e9e0c8;
+  background: white;
   font-family: 'Roboto', sans-serif;
   width: 100%;
   min-height: 100vh;
@@ -14,10 +14,12 @@ h1 {
   font-size: 32px;
   margin-top: 10px;
   margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
 }
 
 section {
-  background: #f3f3f3;
+  background: white;
   border-radius: 20px;
   padding: 34px;
   display: flex;
